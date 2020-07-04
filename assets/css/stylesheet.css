@@ -12,6 +12,7 @@ body {
 	width: 100%;
 	top: 0;
 	left: 0;
+	display: table;
 	vertical-align: middle;
 	height: 100vh;
 }
